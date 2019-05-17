@@ -1,6 +1,6 @@
 # ReadASL.com Source Code
 
-To start the Front End, run the following commands:
+To start the Front End, navigate to the cloned directory run the following commands:
 ```
 npm i
 npm start
