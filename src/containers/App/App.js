@@ -9,8 +9,11 @@ class App extends Component {
     super(props);
   }
   render() {
+    // In the future, a nav bar could go here
     return (
-      <span className={style.test}>App component</span>
+      <div className={style.mainWrapper}>
+        <span>Hello!</span>
+      </div>
     );
   }
 }

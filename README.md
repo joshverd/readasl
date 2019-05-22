@@ -12,6 +12,6 @@ then navigate to `localhost:3000`.
   - **./actions** && **./reducers** are for Redux
   - **./containers** has all the React containers used.
     - In the future if multiple routes are needed, this is where they should go.
-  - **./components** contains all React components used by the app
+  - **./components** contains all React components used by the app + the main 'App' component which controls what is displayed on EVERY page. 
   - **./utils** contains all the utility functions the app uses to perform actions.
     - Should be small and specific pieces of code
